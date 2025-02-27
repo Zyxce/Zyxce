@@ -8,9 +8,6 @@
 - 🌱 **Currently Learning:**  
   React and Angular! 🚀
 
-- 💞 **Collaboration:**  
-  Open to projects at **Yandex** or **VK**. 🤝
-
 - 📫 **Contact Me:**  
   - Email: [Zyxceles@gmail.com](mailto:Zyxceles@gmail.com)  
   - Email: [Laksor@inbox.ru](mailto:Laksor@inbox.ru)  
