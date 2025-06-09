@@ -1,12 +1,9 @@
 👋 **Hi, I’m @Zyxce!**
 
-- 👀 **Interests:** Passionate about _frontend development_ and _game development_.
+- 👀 **Interests:** Passionate about _frontend development_ 
   
 - 💻 **Skills:**  
   HTML, HAML, CSS, SASS, JavaScript, TypeScript, React, C#, Unity3D 😎
-
-- 🌱 **Currently Learning:**  
-  React and Angular! 🚀
 
 - 📫 **Contact Me:**  
   - Email: [Zyxceles@gmail.com](mailto:Zyxceles@gmail.com)  
